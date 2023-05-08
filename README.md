@@ -10,7 +10,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ~~Solana Labs (Intership)~~
+- 🔭 I’m currently working on Gradient Academy
 - 🌱 I’m currently learning Udayana University
 - 🤔 I’m looking for help with my keyboard
 - 💬 Ask me about anymore
